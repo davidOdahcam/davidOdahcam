@@ -20,6 +20,6 @@
 <br />
 
 ### **Social:**
-<a href = "https://www.linkedin.com/in/david-dos-santos-machado-506b72196/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/david-dos-santos-machado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:david.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://open.spotify.com/user/22rg4euh4aos6j5gfgphvhbpq?si=0c4585f38a294904"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
