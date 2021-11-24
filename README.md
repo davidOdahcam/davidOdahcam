@@ -1,12 +1,10 @@
-<p align="center"><img width="80%" src="./assets/header.png" /></p>
-<img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" />
+## **Hello, I'm David dos Santos Machado!**
 
 ### **About me:**
 - 🎓 Student of Information Systems at [Federal Rural University of Rio de Janeiro (UFRRJ)](https://ufrrj.br/);
 - 💼 WEB Developer at [Sphera Educacional](https://spheraeducacional.com.br/).
 
 ### **Languages and Tools:**
-
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"></code>
