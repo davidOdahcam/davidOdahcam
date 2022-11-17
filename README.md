@@ -2,7 +2,7 @@
 
 ### **Sobre mim:**
 - 🎓 Sou graduando de Sistemas de Informalção na [Universidade Federal Rural do Rio de Janeiro (UFRRJ)](https://ufrrj.br/);
-- 💼 Atualmente trabalho como desenvolvedor full-stack para [Sphera Educacional](https://spheraeducacional.com.br/).
+- 💼 Atualmente trabalho como desenvolvedor full-stack para [Nelogica](https://nelogica.com.br/).
 
 ### **Linguagens e ferramentas:**
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
